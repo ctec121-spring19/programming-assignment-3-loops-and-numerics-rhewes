@@ -14,7 +14,12 @@ The output should look like:
 Student Output
 sum: 360
 sum: 84
-sum: 272
+31
+45
+64
+90
+16
+sum: 246
 ```
 
 Note that the last number will vary with each run of the program.

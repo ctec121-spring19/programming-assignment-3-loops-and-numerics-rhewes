@@ -14,6 +14,8 @@ def main():
     # and print the sum
 
     # use the randrange() function to sum 5 randomly generated numbers 
-    # between 1 and 99 inclusive and print the sum
+    # between 1 and 99 inclusive.
+    # Print each random number on a line. 
+    # Print the sum on the last line
 
 main()
