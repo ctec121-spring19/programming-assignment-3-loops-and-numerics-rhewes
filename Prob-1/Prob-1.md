@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 3 - Problem 1
+#  Module 2 - Programming Assignment 3 - Problem 1
 
 **Goal:** 
 - Demonstrate a definite loop using the range() function

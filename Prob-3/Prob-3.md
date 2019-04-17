@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 3 - Problem 3
+#  Module 2 - Programming Assignment 3 - Problem 3
 
 **Goal:** 
 - Demonstrate use of the math libary

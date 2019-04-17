@@ -1,4 +1,4 @@
-#  Module 1 - Programming Assignment 3 - Problem 4
+#  Module 2 - Programming Assignment 3 - Problem 4
 
 **Goal:** 
 - Demonstrate the accumulator pattern
